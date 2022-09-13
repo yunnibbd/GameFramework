@@ -1,0 +1,29 @@
+{
+  "c24f471e-725f-4b71-ba9f-b2ce9b821038": {
+    "url": "db://assets/Scenes",
+    "value": {}
+  },
+  "fa3a3829-1e47-4aba-ba73-72d03109147c": {
+    "url": "db://assets/Scenes/scene.scene",
+    "value": {
+      "depends": [
+        "f46876e4-e81b-4931-b493-6d367be385e7",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ]
+    }
+  },
+  "b5061b22-106f-4661-b81f-aec0cece17f5": {
+    "url": "db://assets/Scrpts",
+    "value": {}
+  },
+  "f049e36b-62c2-4aef-9d0f-795c95bb3332": {
+    "url": "db://assets/Scrpts/Untitle.ts",
+    "value": {}
+  },
+  "a7ed6360-0c84-40ea-b4e2-ebd138dae90f": {
+    "url": "db://assets/Scrpts/Main.ts",
+    "value": {}
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scenes.meta": {
+    "time": 1662891664275.6665
+  },
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scenes\\scene.scene.meta": {
+    "time": 1662891664277.6638
+  },
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scenes": {
+    "time": 1662891664273.672,
+    "uuid": "c24f471e-725f-4b71-ba9f-b2ce9b821038",
+    "missing": false
+  },
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scenes\\scene.scene": {
+    "time": 1662891664271.679,
+    "uuid": "fa3a3829-1e47-4aba-ba73-72d03109147c",
+    "missing": false
+  },
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scrpts.meta": {
+    "time": 1662891664402.3274
+  },
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scrpts": {
+    "time": 1662891757053.4294,
+    "uuid": "b5061b22-106f-4661-b81f-aec0cece17f5",
+    "missing": false
+  },
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scrpts\\Untitle.ts.meta": {
+    "time": 1662891750989.6538
+  },
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scrpts\\Untitle.ts": {
+    "time": 1662891743412.9258,
+    "uuid": "f049e36b-62c2-4aef-9d0f-795c95bb3332",
+    "missing": false
+  },
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scrpts\\Main.ts.meta": {
+    "time": 1662891757054.4268
+  },
+  "E:\\code\\cocos\\zhl\\GameFramework\\assets\\Scrpts\\Main.ts": {
+    "time": 1662894209554.1184,
+    "uuid": "a7ed6360-0c84-40ea-b4e2-ebd138dae90f",
+    "missing": false
+  }
+}

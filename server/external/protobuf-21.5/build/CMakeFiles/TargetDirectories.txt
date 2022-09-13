@@ -1,0 +1,7 @@
+C:/Users/yunni/Desktop/GameFramework/server/external/protobuf-21.5/build/CMakeFiles/protoc.dir
+C:/Users/yunni/Desktop/GameFramework/server/external/protobuf-21.5/build/CMakeFiles/libprotobuf-lite.dir
+C:/Users/yunni/Desktop/GameFramework/server/external/protobuf-21.5/build/CMakeFiles/libprotoc.dir
+C:/Users/yunni/Desktop/GameFramework/server/external/protobuf-21.5/build/CMakeFiles/libprotobuf.dir
+C:/Users/yunni/Desktop/GameFramework/server/external/protobuf-21.5/build/CMakeFiles/INSTALL.dir
+C:/Users/yunni/Desktop/GameFramework/server/external/protobuf-21.5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/yunni/Desktop/GameFramework/server/external/protobuf-21.5/build/CMakeFiles/ZERO_CHECK.dir

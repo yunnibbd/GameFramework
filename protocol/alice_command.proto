@@ -1,0 +1,8 @@
+syntax = "proto3";
+package Alice;
+import "alice_type.proto";
+
+message AliceHead{
+	//消息内容大小，不包含AliceHead
+	int32 alice_size = 1;
+}
